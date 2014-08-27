@@ -1,0 +1,300 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-22T23:36:11.275Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-22T23:36:11.301Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-22T23:36:11.714Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-22T23:36:11.714Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-22 19:36:11 ***","timestamp":"2014-07-22T23:36:11.715Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":1,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-22T23:36:19.153Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-07-22T23:36:22.077Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] connection closed","timestamp":"2014-07-22T23:36:43.233Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-22T23:38:58.504Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-22T23:38:58.508Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-22T23:38:58.509Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has left the cluster","timestamp":"2014-07-22T23:38:58.511Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-22T23:38:59.011Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T00:01:07.230Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T00:01:07.255Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-23T00:01:07.668Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-23T00:01:07.669Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-22 20:01:07 ***","timestamp":"2014-07-23T00:01:07.669Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-23T01:00:06.332Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-23T01:00:06.335Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-23T01:00:06.335Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has left the cluster","timestamp":"2014-07-23T01:00:06.338Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-23T01:00:06.838Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T01:04:49.805Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T01:04:49.831Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-23T01:04:50.265Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-23T01:04:50.266Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-22 21:04:49 ***","timestamp":"2014-07-23T01:04:50.266Z"}
+{"level":"emerg","message":"Action userList is missing 'action.description'; exiting.","timestamp":"2014-07-23T01:07:29.976Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":1,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-23T01:10:30.021Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-23T01:10:48.008Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-23T01:10:48.010Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-23T01:10:48.011Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has left the cluster","timestamp":"2014-07-23T01:10:48.013Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-23T01:10:48.513Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:23:00.373Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:23:00.398Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:23:01.086Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:23:55.683Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:23:55.733Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:23:56.524Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:26:36.938Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:26:36.969Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-23T23:26:37.646Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:26:37.655Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:35:04.640Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:35:04.666Z"}
+{"level":"emerg","message":"Action userList is missing 'action.description'; exiting.","timestamp":"2014-07-23T23:35:04.678Z"}
+{"level":"info","message":"running custom initializer: mySQL","timestamp":"2014-07-23T23:35:04.958Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-07-23T23:35:04.959Z"}
+{"level":"notice","message":"pid: 83624","timestamp":"2014-07-23T23:35:04.960Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-07-23T23:35:04.960Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-07-23T23:35:04.962Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-07-23T23:35:04.965Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080","timestamp":"2014-07-23T23:35:04.988Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:35:14.280Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:35:14.306Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:35:15.026Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:36:01.124Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:36:01.150Z"}
+{"level":"emerg","message":"Action userList is missing 'action.description'; exiting.","timestamp":"2014-07-23T23:36:01.161Z"}
+{"level":"info","message":"running custom initializer: mySQL","timestamp":"2014-07-23T23:36:01.438Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-07-23T23:36:01.439Z"}
+{"level":"notice","message":"pid: 83635","timestamp":"2014-07-23T23:36:01.439Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-07-23T23:36:01.440Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-07-23T23:36:01.441Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-07-23T23:36:01.445Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080","timestamp":"2014-07-23T23:36:01.472Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-23T23:36:01.819Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:38:39.953Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:38:39.980Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:38:40.662Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:41:53.634Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:41:53.660Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:41:54.366Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:41:57.014Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:41:57.040Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:41:57.709Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:42:00.282Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:42:00.309Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:42:00.990Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:42:03.218Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:42:03.244Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:42:03.932Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:42:08.328Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:42:08.354Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true,"level":"warning","message":"","timestamp":"2014-07-23T23:42:09.033Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-23T23:46:46.665Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-23T23:46:46.691Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-23T23:46:47.377Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-23T23:46:47.378Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 19:46:46 ***","timestamp":"2014-07-23T23:46:47.378Z"}
+{"level":"emerg","message":"Action userList is missing 'action.description'; exiting.","timestamp":"2014-07-24T00:02:23.600Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":1,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:03:00.457Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:03:02.907Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:03:02.907Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:03:02.908Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:03:02.908Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:03:02.909Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:03:02.909Z"}
+{"level":"error","message":"! TypeError: Cannot read property 'users' of undefined","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:15)","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:03:02.911Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:03:02.912Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:03:02.912Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:03:02.912Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:03:02.912Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:03:02.912Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:03:02.912Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":8,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:03:02.913Z"}
+{"level":"emerg","message":"Action userList is missing 'action.description'; exiting.","timestamp":"2014-07-24T00:14:42.233Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:15:15.185Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:15:15.186Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:15:15.186Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:15:15.186Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:15:15.186Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:15:15.186Z"}
+{"level":"error","message":"! TypeError: Cannot read property 'users' of undefined","timestamp":"2014-07-24T00:15:15.187Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:15)","timestamp":"2014-07-24T00:15:15.188Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:15:15.189Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:15:15.190Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:15:15.190Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:15:15.190Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":5,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:15:15.190Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:15:49.555Z"}
+{"level":"error","message":"! TypeError: Cannot read property 'users' of undefined","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:15)","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:15:49.556Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:15:49.557Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:15:49.557Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:15:49.557Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:15:49.557Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:15:49.557Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":3,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:15:49.557Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"!     params: {\"action\":\"userList\",\"apiVersion\":1}","timestamp":"2014-07-24T00:15:54.435Z"}
+{"level":"error","message":"! TypeError: Cannot read property 'users' of undefined","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:15)","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:15:54.437Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:15:54.438Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:15:54.438Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:15:54.438Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:15:54.438Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"action\":\"userList\",\"apiVersion\":1}","duration":4,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:15:54.438Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:15:57.793Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:17:25.509Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:17:30.458Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:18:14.066Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:18:22.601Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:18:22.602Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:18:22.602Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:18:22.602Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:18:22.602Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:18:22.602Z"}
+{"level":"error","message":"! TypeError: Cannot read property 'users' of undefined","timestamp":"2014-07-24T00:18:22.603Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:15)","timestamp":"2014-07-24T00:18:22.603Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:18:22.603Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:18:22.604Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:18:22.604Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:18:22.604Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:18:22.604Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:18:22.604Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:18:22.605Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:18:22.605Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:18:22.605Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:18:22.606Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":5,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:18:22.606Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:19:58.294Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:20:00.734Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:20:00.734Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:20:00.735Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:20:00.735Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:20:00.735Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:20:00.735Z"}
+{"level":"error","message":"! TypeError: Object [object Object] has no method 'fine'","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:22)","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:20:00.736Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:20:00.737Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:20:00.737Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:20:00.739Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:20:00.739Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:20:00.739Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":6,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:20:00.739Z"}
+{"level":"info","message":"","timestamp":"2014-07-24T00:20:38.286Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:22:11.882Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:22:11.910Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has joined the cluster","timestamp":"2014-07-24T00:22:12.611Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:22:12.623Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:22:12.624Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:22:12 ***","timestamp":"2014-07-24T00:22:12.624Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:22:20.841Z"}
+{"level":"info","message":"","timestamp":"2014-07-24T00:22:24.907Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:23:26.339Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:23:26.364Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:23:27.061Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:23:27.062Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:23:26 ***","timestamp":"2014-07-24T00:23:27.062Z"}
+{"level":"info","message":"","timestamp":"2014-07-24T00:23:30.515Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:24:57.689Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:24:57.715Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:24:58.420Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:24:58.421Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:24:58 ***","timestamp":"2014-07-24T00:24:58.421Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:25:06.689Z"}
+{"level":"error","message":"! uncaught error from action: userList","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"! connection details:","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"!     action: \"userList\"","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"!     params: {\"apiVersion\":\"1\",\"action\":\"userList\"}","timestamp":"2014-07-24T00:25:09.425Z"}
+{"level":"error","message":"! TypeError: Object [object Object] has no method 'findALL'","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at Object.exports.userList.run (/Users/mhiatt/Projects/cpm-api/actions/users.js:31:22)","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:248:33","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:123:40)","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:236:14","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2014-07-24T00:25:09.427Z"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2014-07-24T00:25:09.428Z"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/actionProcessor.js:233:20)","timestamp":"2014-07-24T00:25:09.428Z"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/initializers/genericServer.js:90:21)","timestamp":"2014-07-24T00:25:09.428Z"}
+{"level":"error","message":"!     at /Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:131:16","timestamp":"2014-07-24T00:25:09.428Z"}
+{"level":"error","message":"!     at determineRequestParams (/Users/mhiatt/Projects/cpm-api/node_modules/actionhero/servers/web.js:349:9)","timestamp":"2014-07-24T00:25:09.428Z"}
+{"level":"error","message":"*","timestamp":"2014-07-24T00:25:09.428Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":5,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:25:09.429Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-24T00:28:13.381Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-24T00:28:13.383Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-24T00:28:13.384Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has left the cluster","timestamp":"2014-07-24T00:28:13.387Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-24T00:28:13.887Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:28:16.859Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:28:16.882Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:28:17.582Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:28:17.582Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:28:17 ***","timestamp":"2014-07-24T00:28:17.582Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2014-07-24T00:28:36.475Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2014-07-24T00:28:36.477Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2014-07-24T00:28:36.477Z"}
+{"level":"info","message":"actionhero member 192.168.1.16 has left the cluster","timestamp":"2014-07-24T00:28:36.480Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2014-07-24T00:28:36.981Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:28:38.569Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:28:38.594Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:28:39.285Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:28:39.285Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:28:38 ***","timestamp":"2014-07-24T00:28:39.286Z"}
+{"0":{"dataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"_previousDataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__options":{"timestamps":true,"createdAt":"createdAt","updatedAt":"updatedAt","deletedAt":"deletedAt","instanceMethods":{},"classMethods":{},"validate":{},"freezeTableName":false,"underscored":false,"syncOnAssociation":true,"paranoid":false,"whereCollection":null,"schema":null,"schemaDelimiter":"","language":"en","defaultScope":null,"scopes":null,"hooks":{"beforeCreate":[],"afterCreate":[]},"omitNull":false,"uniqueKeys":{},"hasPrimaryKeys":false},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false},"1":{"dataValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"_previousDataValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"__options":{"$ref":"$[0][\"__options\"]"},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false},"level":"info","message":"","timestamp":"2014-07-24T00:28:51.276Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:31:42.693Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:31:42.721Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:31:43.426Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:31:43.427Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:31:43 ***","timestamp":"2014-07-24T00:31:43.427Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:31:49.867Z"}
+{"0":{"dataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"_previousDataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__options":{"timestamps":true,"createdAt":"createdAt","updatedAt":"updatedAt","deletedAt":"deletedAt","instanceMethods":{},"classMethods":{},"validate":{},"freezeTableName":false,"underscored":false,"syncOnAssociation":true,"paranoid":false,"whereCollection":null,"schema":null,"schemaDelimiter":"","language":"en","defaultScope":null,"scopes":null,"hooks":{"beforeCreate":[],"afterCreate":[]},"omitNull":false,"uniqueKeys":{},"hasPrimaryKeys":false},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false},"1":{"dataValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"_previousDataValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"__options":{"$ref":"$[0][\"__options\"]"},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":2,"first_name":"Tyler","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false},"level":"info","message":"","timestamp":"2014-07-24T00:31:52.329Z"}
+{"to":"127.0.0.1","action":"userList","params":"{\"apiVersion\":\"1\",\"action\":\"userList\"}","duration":8,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:31:52.329Z"}
+{"level":"alert","message":"! Failed to load /Users/mhiatt/Projects/cpm-api/actions/users.js","timestamp":"2014-07-24T00:52:07.861Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2014-07-24T00:52:52.358Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-07-24T00:52:52.384Z"}
+{"level":"info","message":"Connected to DB and coutned 2 users.","timestamp":"2014-07-24T00:52:53.070Z"}
+{"level":"notice","message":"server ID: 192.168.1.16","timestamp":"2014-07-24T00:52:53.071Z"}
+{"level":"notice","message":"*** Server Started @ 2014-07-23 20:52:52 ***","timestamp":"2014-07-24T00:52:53.071Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:52:56.169Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"apiVersion\":\"1\",\"action\":\"usert\"}","duration":2,"error":"\"Error: id is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:52:59.134Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"apiVersion\":\"1\",\"action\":\"usert\"}","duration":0,"error":"\"Error: id is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:53:28.898Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:53:33.580Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\"}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:53:39.344Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"apiVersion\":\"1\",\"action\":\"usert\"}","duration":0,"error":"\"Error: id is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:53:42.657Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"apiVersion\":\"1?id=1\",\"action\":\"usert\"}","duration":0,"error":"\"Error: usert is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:53:52.777Z"}
+{"dataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"_previousDataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__options":{"timestamps":true,"createdAt":"createdAt","updatedAt":"updatedAt","deletedAt":"deletedAt","instanceMethods":{},"classMethods":{},"validate":{},"freezeTableName":false,"underscored":false,"syncOnAssociation":true,"paranoid":false,"whereCollection":{"id":"1"},"schema":null,"schemaDelimiter":"","language":"en","defaultScope":null,"scopes":null,"hooks":{"beforeCreate":[],"afterCreate":[]},"omitNull":false,"uniqueKeys":{},"hasPrimaryKeys":false},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false,"level":"info","message":"","timestamp":"2014-07-24T00:54:45.712Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"id\":\"1\",\"action\":\"usert\",\"apiVersion\":1}","duration":9,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:54:45.713Z"}
+{"dataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"_previousDataValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__options":{"timestamps":true,"createdAt":"createdAt","updatedAt":"updatedAt","deletedAt":"deletedAt","instanceMethods":{},"classMethods":{},"validate":{},"freezeTableName":false,"underscored":false,"syncOnAssociation":true,"paranoid":false,"whereCollection":{"id":"1"},"schema":null,"schemaDelimiter":"","language":"en","defaultScope":null,"scopes":null,"hooks":{"beforeCreate":[],"afterCreate":[]},"omitNull":false,"uniqueKeys":{},"hasPrimaryKeys":false},"options":{"isNewRecord":false,"isDirty":false,"raw":true},"hasPrimaryKeys":false,"selectedValues":{"id":1,"first_name":"Myles","last_name":"Hiatt"},"__eagerlyLoadedAssociations":[],"isNewRecord":false,"level":"info","message":"","timestamp":"2014-07-24T00:56:05.987Z"}
+{"to":"127.0.0.1","action":"usert","params":"{\"id\":\"1\",\"action\":\"usert\",\"apiVersion\":1}","duration":5,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-07-24T00:56:05.989Z"}
